@@ -1,0 +1,30 @@
+total 104
+drwxr-xr-x   2 root root  4096 Mar  5 14:54 selinux
+drwxr-xr-x   2 root root  4096 Abr 19 06:32 mnt
+drwxr-xr-x   2 root root  4096 Abr 25 13:04 srv
+drwxr-xr-x   2 root root  4096 Abr 25 13:04 lib64
+drwx------   2 root root 16384 Jun 25 07:50 lost+found
+drwxr-xr-x   2 root root  4096 Jun 25 10:48 cdrom
+drwxr-xr-x   3 root root  4096 Jun 25 10:49 home
+drwxr-xr-x  11 root root  4096 Jun 25 11:00 usr
+drwxr-xr-x  22 root root  4096 Jun 25 14:29 lib
+drwx------   9 root root  4096 Jun 25 14:58 root
+drwxr-xr-x   2 root root  4096 Jun 27 09:59 lib32
+drwxr-xr-x   3 root root  4096 Jul 18 08:37 opt
+lrwxrwxrwx   1 root root    32 Jul 24 08:33 initrd.img.old -> boot/initrd.img-3.2.0-27-generic
+lrwxrwxrwx   1 root root    29 Jul 24 08:33 vmlinuz.old -> boot/vmlinuz-3.2.0-27-generic
+lrwxrwxrwx   1 root root    32 Jul 24 08:39 initrd.img -> boot/initrd.img-3.2.0-27-generic
+lrwxrwxrwx   1 root root    29 Jul 24 08:39 vmlinuz -> boot/vmlinuz-3.2.0-27-generic
+drwxr-xr-x  25 root root  4096 Jul 24 08:39 ..
+drwxr-xr-x  25 root root  4096 Jul 24 08:39 .
+drwxr-xr-x   3 root root  4096 Jul 24 08:39 boot
+drwxr-xr-x   2 root root  4096 Jul 26 09:44 bin
+drwxr-xr-x   2 root root  4096 Jul 27 10:01 sbin
+drwxr-xr-x  13 root root  4096 Jul 30 08:56 var
+dr-xr-xr-x 198 root root     0 Jul 30 08:56 proc
+drwxr-xr-x  13 root root     0 Jul 30 08:56 sys
+drwxr-xr-x   2 root root  4096 Jul 30 15:40 media
+drwxr-xr-x 146 root root 12288 Jul 30 15:40 etc
+drwxr-xr-x  17 root root  4300 Jul 30 16:14 dev
+drwxrwxrwt  15 root root  4096 Jul 31 11:17 tmp
+drwxr-xr-x  21 root root   760 Jul 31 11:39 run

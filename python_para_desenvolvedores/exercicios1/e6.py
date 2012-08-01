@@ -5,5 +5,5 @@
 # ▪ Retorne dados ordenados pelo item indicado pela chave e em ordem decrescente se
 # reverso for verdadeiro.
 
-def sortTuple(list_ = []):
+def sortTuple(dados = [], chave = 0, reverso = False):
     pass
